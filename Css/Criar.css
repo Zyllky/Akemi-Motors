@@ -1,0 +1,23 @@
+body {
+  background-color: #eee6d9;
+}
+
+h1 {
+  font-family: "Merienda", serif;
+  font-size: 40px;
+}
+
+.label {
+  font-family: "Merienda", serif;
+  font-size: 15px;
+}
+
+#TopoDaPag {
+  margin: 20px;
+  text-align: center;
+  align-items: center;
+  background-color: #f5efe4ff;
+  border: 8px solid;
+  border-color: #f5efe4ff;
+  border-radius: 15px;
+}
