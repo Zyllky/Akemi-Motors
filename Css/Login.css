@@ -1,0 +1,66 @@
+body {
+  background-color: #eee6d9;
+}
+
+h1 {
+  font-family: "Kaushan Script", serif;
+  font-size: 40px;
+}
+
+#CampoTexto {
+  font-family: "Merienda", serif;
+  font-size: 15px;
+  color: #7c766cff;
+  background-color: #fdf9f1ff;
+  border: 2px solid;
+  border-color: #fdf9f1ff;
+  border-radius: 30px;
+}
+
+#TopoDaPag {
+  margin: 20px;
+  text-align: center;
+  align-items: center;
+  background-color: #f5efe4ff;
+  border: 8px solid;
+  border-color: #f5efe4ff;
+  border-radius: 15px;
+}
+
+#Login {
+  margin: 20px;
+  text-align: center;
+  align-items: center;
+  background-color: #f5efe4ff;
+  border: 8px solid;
+  border-color: #f5efe4ff;
+  border-radius: 15px;
+  font-family: "Merienda", serif;
+  font-size: 15px;
+  width: 20%;
+  margin-right: auto;
+  margin-left: auto;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#Botão {
+  margin: 20px;
+  text-align: center;
+  align-items: center;
+  color: #f5efe4ff;
+  background-color: #cec8beff;
+  border: 8px solid;
+  border-color: #cec8beff;
+  border-radius: 15px;
+  font-family: "Merienda", serif;
+  font-size: 15px;
+  width: 20%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#Botão:hover {
+  background-color: #aca8a0;
+  border-color: #aca8a0;
+  cursor: pointer;
+}

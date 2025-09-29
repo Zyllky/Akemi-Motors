@@ -1,0 +1,62 @@
+body {
+  background-color: #eee6d9;
+}
+
+h1 {
+  font-family: "Kaushan Script", serif;
+  font-size: 24px;
+}
+
+#BarraPesquisa {
+  font-family: "Merienda", serif;
+  font-size: 15px;
+  background-color: #fdf9f1ff;
+  border: 5px solid;
+  border-color: #f5efe4ff;
+  border-radius: 15px;
+}
+
+#Pesquisar {
+  font-family: "Merienda", serif;
+  font-size: 15px;
+  color: #f5efe4ff;
+  background-color: #bc002d;
+  border: 2px solid;
+  border-color: #bc002d;
+  border-radius: 30px;
+}
+
+#TopoDaPag {
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  background-color: #f5efe4ff;
+  border: 8px solid;
+  border-color: #f5efe4ff;
+  border-radius: 15px;
+}
+
+#Box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+  font-family: "Merienda", serif;
+  font-size: 15px;
+}
+
+.card-box {
+  width: 300px;
+  background-color: #f5efe4ff;
+  border: 15px solid #f5efe4ff;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+img {
+  border-radius: 15px;
+}
