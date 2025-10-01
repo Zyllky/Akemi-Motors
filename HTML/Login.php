@@ -24,7 +24,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Login</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
-    <link rel="stylesheet" href="\Carro Site\Css\Login.css">
+    <link rel="stylesheet" href="\Akemi-Motors\Css\Login.css">
 </head>
   <body>
 
@@ -40,7 +40,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
    </div> 
 <!-- LOGIN -->
 
-<div id=Box class="container-login">
+<div id=Login class="container-login">
     <div class="login-box">
         <h2 style="color: #BC002D;">Login Administração</h2>
         <?php if ($erro) echo '<div class="alert alert-danger">'.$erro.'</div>'; ?>

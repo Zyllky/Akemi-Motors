@@ -40,7 +40,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Cadastrar Carro</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="\Carro Site\Css\Criar.css">  
+    <link rel="stylesheet" href="\Akemi-Motors\Css\Criar.css">  
     
     <link rel="stylesheet"
           href="https://fonts.googleapis.com/css2?family=Kaushan+Script">
