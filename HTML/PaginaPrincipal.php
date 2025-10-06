@@ -54,7 +54,7 @@ if ($result && $result->num_rows > 0) {
         echo "<div class='card-box'>";
         echo "<img src='../Imagens/$imagem' class='card-img-top' alt='Imagem do $modelo' style='max-width:400px'>";
         echo "<div class='card-body'>";
-        echo "<h5 class='card-title'>Modelo: $modelo</h5>";
+        echo "<h5 class='card-title'> $modelo</h5>";
         echo "<p class='card-text'>Preço: R$ $preco</p>";
         echo "<p class='card-text'>Ano: $ano</p>";
         echo "<p class='card-text'>Quilometragem: $quilometragem km</p>";

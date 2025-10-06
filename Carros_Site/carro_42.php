@@ -11,12 +11,12 @@
 <div id='TopoDaPag'><h1>AKEMI MOTORS</h1></div>
 <div class='carro-pagina'>
   <div class='carro-imagens-galeria'><div class='carro-imagens-galeria'>
-  <img id='imagemPrincipal' class='carro-img-principal' src='../Imagens/img_1759754513144_0.jpg' alt='Imagem principal'>
-  <div class='carro-miniaturas'><img class='carro-miniatura' src='../Imagens/img_1759754513144_0.jpg' alt='Miniatura' onclick='trocarImagemPrincipal("../Imagens/img_1759754513144_0.jpg")'>
-<img class='carro-miniatura' src='../Imagens/img_1759754513208_1.jpg' alt='Miniatura' onclick='trocarImagemPrincipal("../Imagens/img_1759754513208_1.jpg")'>
-<img class='carro-miniatura' src='../Imagens/img_1759754513220_2.jpg' alt='Miniatura' onclick='trocarImagemPrincipal("../Imagens/img_1759754513220_2.jpg")'>
-<img class='carro-miniatura' src='../Imagens/img_1759754513919_3.jpg' alt='Miniatura' onclick='trocarImagemPrincipal("../Imagens/img_1759754513919_3.jpg")'>
-<img class='carro-miniatura' src='../Imagens/img_1759754513596_4.jpg' alt='Miniatura' onclick='trocarImagemPrincipal("../Imagens/img_1759754513596_4.jpg")'>
+  <img id='imagemPrincipal' class='carro-img-principal' src='../Imagens/img_1759757823951_0.jpg' alt='Imagem principal'>
+  <div class='carro-miniaturas'><img class='carro-miniatura' src='../Imagens/img_1759757823951_0.jpg' alt='Miniatura' onclick='trocarImagemPrincipal("../Imagens/img_1759757823951_0.jpg")'>
+<img class='carro-miniatura' src='../Imagens/img_1759757823680_1.jpg' alt='Miniatura' onclick='trocarImagemPrincipal("../Imagens/img_1759757823680_1.jpg")'>
+<img class='carro-miniatura' src='../Imagens/img_1759757823593_2.jpg' alt='Miniatura' onclick='trocarImagemPrincipal("../Imagens/img_1759757823593_2.jpg")'>
+<img class='carro-miniatura' src='../Imagens/img_1759757823488_3.jpg' alt='Miniatura' onclick='trocarImagemPrincipal("../Imagens/img_1759757823488_3.jpg")'>
+<img class='carro-miniatura' src='../Imagens/img_1759757823702_4.jpg' alt='Miniatura' onclick='trocarImagemPrincipal("../Imagens/img_1759757823702_4.jpg")'>
 </div>
 </div></div>
   <div class='carro-info'>
