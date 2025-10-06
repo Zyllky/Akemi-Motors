@@ -7,25 +7,6 @@ h1 {
   font-size: 24px;
 }
 
-#BarraPesquisa {
-  font-family: "Merienda", serif;
-  font-size: 15px;
-  background-color: #fdf9f1ff;
-  border: 5px solid;
-  border-color: #f5efe4ff;
-  border-radius: 15px;
-}
-
-#Pesquisar {
-  font-family: "Merienda", serif;
-  font-size: 15px;
-  color: #f5efe4ff;
-  background-color: #bc002d;
-  border: 2px solid;
-  border-color: #bc002d;
-  border-radius: 30px;
-}
-
 #TopoDaPag {
   margin: 20px;
   display: flex;

@@ -1,0 +1,67 @@
+body {
+  background: #eee6d9;
+  font-family: "Merienda", serif;
+}
+
+#TopoDaPag {
+  margin: 20px;
+  background: #f5efe4ff;
+  border-radius: 15px;
+  padding: 10px 0;
+  text-align: center;
+  font-family: "Kaushan Script", serif;
+  font-size: 28px;
+}
+
+.container {
+  background: #fff;
+  border-radius: 15px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+  padding: 32px;
+  max-width: 900px;
+  margin: 40px auto;
+}
+
+.adm-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+  margin-bottom: 24px;
+}
+
+.adm-table th,
+.adm-table td {
+  border: 1px solid #e0d6c3;
+  padding: 10px 8px;
+  text-align: center;
+}
+
+.adm-table th {
+  background: #f5efe4ff;
+  font-family: "Kaushan Script", serif;
+  font-size: 18px;
+}
+
+.adm-table td {
+  font-size: 16px;
+}
+
+.btn {
+  margin: 20px;
+  text-align: center;
+  align-items: center;
+  color: #f5efe4ff;
+  background-color: #bc002d;
+  border: 8px solid;
+  border-color: #bc002d;
+  border-radius: 15px;
+  font-family: "Merienda", serif;
+  font-size: 15px;
+  width: 10%;
+}
+
+.btn:hover {
+  background-color: #8c001f;
+  border-color: #8c001f;
+  cursor: pointer;
+}

@@ -1,0 +1,123 @@
+.carro-pagina {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 32px;
+  margin: 40px auto;
+  max-width: 900px;
+}
+
+.carro-info {
+  background: #f5efe4ff;
+  border-radius: 18px;
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.08);
+  padding: 32px 28px;
+  min-width: 260px;
+  max-width: 340px;
+  font-family: "Merienda", serif;
+  font-size: 18px;
+  color: #333;
+  display: center;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.carro-info h1 {
+  font-family: "Kaushan Script", serif;
+  font-size: 28px;
+  margin-bottom: 12px;
+}
+
+.carro-info .btn {
+  margin-top: 18px;
+  font-size: 16px;
+}
+.carro-imagens-galeria {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.carro-img-principal {
+  max-width: 420px;
+  max-height: 320px;
+  border-radius: 15px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.12);
+  margin-bottom: 18px;
+  transition: box-shadow 0.2s;
+}
+
+.carro-miniaturas {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+}
+
+.carro-miniatura {
+  max-width: 90px;
+  max-height: 70px;
+  border-radius: 10px;
+  cursor: pointer;
+  opacity: 0.8;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.08);
+  transition: opacity 0.2s, box-shadow 0.2s;
+}
+.carro-miniatura:hover {
+  opacity: 1;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.18);
+}
+body {
+  background-color: #eee6d9;
+}
+
+h1 {
+  font-family: "Kaushan Script", serif;
+  font-size: 24px;
+}
+
+#TopoDaPag {
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  background-color: #f5efe4ff;
+  border: 8px solid;
+  border-color: #f5efe4ff;
+  border-radius: 15px;
+}
+
+img {
+  border-radius: 15px;
+}
+
+.carro-imagens {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.carro-img {
+  max-width: 220px;
+  max-height: 180px;
+  object-fit: cover;
+  border-radius: 15px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.btn {
+  margin: 20px;
+  text-align: flex;
+  align-items: flex;
+  color: #f5efe4ff;
+  background-color: #bc002d;
+  border: 8px solid;
+  border-color: #bc002d;
+  border-radius: 15px;
+  font-family: "Merienda", serif;
+  font-size: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

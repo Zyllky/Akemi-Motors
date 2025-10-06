@@ -40,7 +40,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
    </div> 
 <!-- LOGIN -->
 
-<div id=Box class="container-login">
+<div id=Login class="container-login">
     <div class="login-box">
         <h2 style="color: #BC002D;">Login Administração</h2>
         <?php if ($erro) echo '<div class="alert alert-danger">'.$erro.'</div>'; ?>
