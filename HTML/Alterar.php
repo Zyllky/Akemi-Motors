@@ -29,10 +29,17 @@ $result = $conn->query($sql);
 <head>
   <meta charset="utf-8">
   <title>Alterar Carro</title>
-  <link rel="stylesheet" href="../Css/Alterar.css">
+  <link rel="stylesheet" href="\Carro Site\Css\Alterar.css">
+      <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Kaushan+Script">
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Merienda">
 </head>
 <body>
-  <div id="TopoDaPag"><h1>Alterar Carro</h1></div>
+    <div id=TopoDaPag>
+    <h1>AKEMI MOTORS</h1>
+</div>
+
   <div class="container">
     <?php if ($msg) echo "<p>$msg</p>"; ?>
     <form method="POST">

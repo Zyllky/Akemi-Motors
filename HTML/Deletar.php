@@ -45,6 +45,10 @@ $result = $conn->query($sql);
   <meta charset="utf-8">
   <title>Deletar Carro</title>
   <link rel="stylesheet" href="../Css/Deletar.css">
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Kaushan+Script">
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Merienda">
 </head>
 <body>
   <div id="TopoDaPag"><h1>Deletar Carro</h1></div>
